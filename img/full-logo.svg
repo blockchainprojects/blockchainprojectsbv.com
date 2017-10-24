@@ -7,11 +7,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 31.547129 28.086248"
+   viewBox="0 0 153.37453 28.086248"
    version="1.1"
    id="svg76"
-   sodipodi:docname="logo.svg"
-   width="31.547129"
+   sodipodi:docname="Asset 1.svg"
+   width="153.37453"
    height="28.086248"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    inkscape:export-filename="/home/xeroc/BlockchainProjectsBV/branding/logo/Asset 1.png"
@@ -42,7 +42,7 @@
      id="namedview78"
      showgrid="false"
      inkscape:zoom="2.6784492"
-     inkscape:cx="-21.468561"
+     inkscape:cx="43.556259"
      inkscape:cy="14.046248"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -59,15 +59,25 @@
      id="Layer_2"
      data-name="Layer 2"
      transform="translate(0.0036732)">
+    <text
+       style="font-weight:700;font-size:10px;font-family:ProximaNova-Semibold, 'Proxima Nova';letter-spacing:0.07em;fill:#021442"
+       id="text12"
+       class="cls-1"
+       x="34.996243"
+       y="18.99">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan4609">BlockchainProjects</tspan>
+    </text>
     <polygon
        style="fill:#95aaba"
        id="polygon14"
-       points="5.29,9.52 16.09,9.52 10.29,1.12 "
+       points="16.09,9.52 10.29,1.12 5.29,9.52 "
        class="cls-3" />
     <polygon
        style="fill:#021442"
        id="polygon16"
-       points="15.56,9.52 20.78,0.75 26.01,9.52 "
+       points="20.78,0.75 26.01,9.52 15.56,9.52 "
        class="cls-4" />
     <path
        style="fill:#021442"
@@ -78,7 +88,7 @@
     <polygon
        style="fill:#95aaba"
        id="polygon20"
-       points="10.53,0.52 20.55,0.52 15.54,8.93 "
+       points="20.55,0.52 15.54,8.93 10.53,0.52 "
        class="cls-3" />
     <g
        style="opacity:0.11000001"
@@ -87,18 +97,18 @@
       <polygon
          style="fill:#132636"
          id="polygon22"
-         points="10.53,18.52 20.55,18.52 15.54,10.12 "
+         points="20.55,18.52 15.54,10.12 10.53,18.52 "
          class="cls-6" />
     </g>
     <polygon
        style="fill:#021442"
        id="polygon26"
-       points="1.04,18.52 10.53,18.52 5.84,9.53 "
+       points="10.53,18.52 5.84,9.53 1.04,18.52 "
        class="cls-4" />
     <polygon
        style="fill:#021442"
        id="polygon28"
-       points="10.31,18.52 15.54,9.75 20.77,18.52 "
+       points="15.54,9.75 20.77,18.52 10.31,18.52 "
        class="cls-4" />
     <path
        style="fill:#021442"
@@ -109,12 +119,12 @@
     <polygon
        style="fill:#95aaba"
        id="polygon32"
-       points="21.02,18.52 31.04,18.52 26.03,9.12 "
+       points="31.04,18.52 26.03,9.12 21.02,18.52 "
        class="cls-3" />
     <polygon
        style="fill:#021442"
        id="polygon34"
-       points="6.09,9.52 15.52,9.52 10.28,18.32 "
+       points="15.52,9.52 10.28,18.32 6.09,9.52 "
        class="cls-4" />
     <path
        style="fill:#021442"
@@ -131,22 +141,22 @@
     <polygon
        style="fill:#021442"
        id="polygon40"
-       points="25.79,9.52 15.78,9.52 20.55,18.58 "
+       points="15.78,9.52 20.55,18.58 25.79,9.52 "
        class="cls-4" />
     <polygon
        style="fill:#95aaba"
        id="polygon42"
-       points="5.29,27.52 15.3,27.52 10.29,19.12 "
+       points="15.3,27.52 10.29,19.12 5.29,27.52 "
        class="cls-3" />
     <polygon
        style="fill:#95aaba"
        id="polygon44"
-       points="0.04,18.52 11.05,18.52 5.05,26.93 "
+       points="11.05,18.52 5.05,26.93 0.04,18.52 "
        class="cls-3" />
     <polygon
        style="fill:#021442"
        id="polygon46"
-       points="15.56,27.52 20.78,18.75 26.01,27.52 "
+       points="20.78,18.75 26.01,27.52 15.56,27.52 "
        class="cls-4" />
     <path
        style="fill:#021442"
@@ -157,7 +167,7 @@
     <polygon
        style="fill:#021442"
        id="polygon50"
-       points="10.31,18.52 20.77,18.52 15.54,27.3 "
+       points="20.77,18.52 15.54,27.3 10.31,18.52 "
        class="cls-4" />
     <path
        style="fill:#021442"
@@ -168,7 +178,7 @@
     <polygon
        style="fill:#95aaba"
        id="polygon54"
-       points="20.02,18.52 31.04,18.52 25.79,27.11 "
+       points="31.04,18.52 25.79,27.11 20.02,18.52 "
        class="cls-3" />
     <polyline
        style="fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round"
